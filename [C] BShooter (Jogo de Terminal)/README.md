@@ -5,8 +5,6 @@
  *
  * Algoritmos e Programação de Computadores – 1/2018
  *
- * Aluno(a): Cleidson Deusdara Chagas de Oliveira
- * Matricula: 18/0052250
  * Turma: A
  * Versão do compilador: gcc (Ubuntu 7.3.0-16ubuntu3) 7.3.0 
  * Descricao: BShoot eh um jogo arcade a onde o jogador avanca contra dificuldades buscando a maior pontuacao possivel
